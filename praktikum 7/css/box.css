@@ -1,0 +1,37 @@
+.container{
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+}
+.box1{
+    background-color:#f4eb48;
+    margin: 2em 1em;
+    height: 700px;
+    width: 25%;
+    border: 1px solid black;
+    text-align: center;
+}
+.box2{
+    background-color: #ff6623;
+    margin: 2em 1em;
+    height: 700px;
+    width: 25%;
+    border: 1px solid black;
+    text-align: center;
+}
+.box3{
+    background-color: #aede94;
+    margin: 2em 1em;
+    height: 700px;
+    width: 25%;
+    border: 1px solid black;
+    text-align: center;
+}
+.box4{
+    background-color: #4dd7fb;
+    margin: 2em 1em;
+    height: 700px;
+    width: 25%;
+    border: 1px solid black;
+    text-align: center;
+}
